@@ -1,5 +1,6 @@
-import org.anurag.SudokuSolver;
-import org.junit.jupiter.api.Assertions;
+package org.anurag.sudokusolver;
+
+import org.anurag.sudokusolver.SudokuSolver;
 import org.junit.jupiter.api.Test;
 
 public class SudokuSolverTest {
