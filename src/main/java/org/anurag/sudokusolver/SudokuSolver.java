@@ -1,4 +1,4 @@
-package org.anurag;
+package org.anurag.sudokusolver;
 
 public class SudokuSolver {
 
